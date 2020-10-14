@@ -1,6 +1,13 @@
 <p align="center"> <img width="100" height="80%" src="./web/src/img/logoColorida.svg"></img> </p>
 <h3 align="center">Leve felicidade para o mundo</h3>
 
+<p align="center">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/perfil/repositório">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/BiancaFSilva/Happy">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/BiancaFSilva/Happy">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BiancaFSilva/Happy">
+</p>
+
 ---
 
 ## :bookmark: Sobre
@@ -42,7 +49,8 @@ Essa aplicação foi construída com base na trilha <strong>OmniStack</strong> d
 
 ---
 
-### Layouts (Figma)
+### Layouts 
+Os layouts da aplicação estão disponíveis para visualização no Figma:
 - [Mobile](https://www.figma.com/file/Pa01yALTVA0LusU4cZwRip/Happy-Mobile-(Copy)?node-id=0%3A1)
 - [Web](https://www.figma.com/file/H3zRoAltjObLchiTGmSyUp/Happy-Web-(Copy)?node-id=0%3A1)
 
@@ -60,8 +68,8 @@ Essa aplicação foi construída com base na trilha <strong>OmniStack</strong> d
 #### Fontes
 - [Nunito](https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800&display=swap)
 
-## :mortar_board: Créditos 
+### :mortar_board: Créditos 
 As aulas foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)** nas aulas da **Next Level Week #03** oferecidas pela [Rocketseat](https://rocketseat.com.br/) durante a segunda semana de outubro.
 
-## :memo: License
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+### :memo: License
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

@@ -33,7 +33,7 @@ O <strong>Happy</strong> é uma aplicação Web e Mobile com o objetivo de conec
 
   - Servidor
     ```sh
-    $ cd server
+    $ cd backend
     ```
     - Rode o comando de inicialização: 
     `yarn start` ou `npm start`
